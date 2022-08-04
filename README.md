@@ -1,5 +1,5 @@
 # ForFileDelete
-This program made in Java basically deletes all the file with a given extension in a given file folder.
+This program made in Java basically deletes all the file with a given extension in a given file folder. Report bugs on the Issues page or at my Discord (ÕĆŤĀVÍÁÑ#4036).
 
 # How to use
 You simply input the extension name (without the period, e.g. "txt", not ".txt") in the field and then click the "Submit" button. You will be prompted on the newest version to confirm you want to delete the files.
